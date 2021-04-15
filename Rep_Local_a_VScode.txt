@@ -1,0 +1,9 @@
+1- Crear repositorio Local
+git init
+git add .
+git commit -m " class_1 "
+2-Crear repositorio Git hub
+3- Enlazar VScode
+git remote add origin https://github.com/Julian4047/Class_1.git
+git branch -M main
+git push -u origin main
